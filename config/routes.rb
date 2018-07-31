@@ -1,3 +1,4 @@
+# Les routes qui redirigent vers les pages statiques
 Rails.application.routes.draw do
   get '/', to: 'static_pages#home'
   get '/contact', to: 'static_pages#contact'

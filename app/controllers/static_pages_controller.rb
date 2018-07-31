@@ -1,3 +1,5 @@
+# On definit les methodes qu'on utilise lors de la redirection des pages statiques
+
 class StaticPagesController < ApplicationController
   def home
   end
