@@ -1,24 +1,31 @@
-# README
+# Repository du site de <a href="https://i-love-forms.herokuapp.com/">la Fine Équipe</a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ce projet est une application simple, qui nous a fait manipuler les liens, les routes et le controller.
 
-Things you may want to cover:
+## Instructions ##
+Pour tester notre super appli, deux options s'offrent à vous.
 
-* Ruby version
+Soit vous visitez le site de <a href="https://i-love-forms.herokuapp.com/">la Fine Équipe</a>.
+Soit vous importez le dossier de l'exercice sur votre bureau :
 
-* System dependencies
+```
+cd Desktop/
+git clone https://github.com/TheFSilver/je-me-presente.git
+cd je-me-presente/
+bundle install
+rails db:migrate
+rails server
+```
 
-* Configuration
+Cliquez ensuite <a href="http://localhost:3000/">ici</a> pour visiter le site en "local"
 
-* Database creation
+Cher correcteur/correctrice, si vous avez bien executez toutes ces commandes, tout devrait bien se passer.
+Mettez-nous la note maximale. 
 
-* Database initialization
+## La Fameuse Fine Équipe ##
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Derrière ce repository de fou se cache...
+* <a href="https://github.com/AniMoure">Anisoara</a>
+* <a href="https://github.com/TheFSilver">François D.</a>
+* <a href="https://github.com/skageraz">Jeremy Rak</a>
+* <a href="https://github.com/Titouax">Titouan</a>
