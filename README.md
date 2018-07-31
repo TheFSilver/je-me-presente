@@ -1,11 +1,11 @@
-# Repository du site de <a href="https://i-love-forms.herokuapp.com/">la Fine Équipe</a>
+# Repository du site de <a href="https://je-presente-la-fine-equipe.herokuapp.com/">la Fine Équipe</a>
 
 Ce projet est une application simple, qui nous a fait manipuler les liens, les routes et le controller.
 
 ## Instructions ##
 Pour tester notre super appli, deux options s'offrent à vous.
 
-Soit vous visitez le site de <a href="https://i-love-forms.herokuapp.com/">la Fine Équipe</a>.
+Soit vous visitez le site de <a href="https://je-presente-la-fine-equipe.herokuapp.com/">la Fine Équipe</a>.
 Soit vous importez le dossier de l'exercice sur votre bureau :
 
 ```
